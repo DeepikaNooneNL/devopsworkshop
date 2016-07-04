@@ -8,6 +8,6 @@ cache: bundler
 # invoke this script instead of rake (the Travis default)
 script: script/cibuild
 
-# do not email results of every build
+# do not email results of every build file
 notifications:
   email: false
